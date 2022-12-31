@@ -4,7 +4,7 @@ test-particle simulation codes
 
 including the ion-ULF wave interaction and the electron-whistler interaction
 
-the code details are the same as the anomolous-resonance respository
+the code details are the same as the anomolous-resonance repository
 
 Use the fortran code to obtain the particle trajectory in the velocity phase space (in the txt file)
 
